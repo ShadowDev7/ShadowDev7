@@ -22,9 +22,16 @@ I am an intermediate programmer whose interest is cybersecurity and android deve
 ![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) 
 
-
 # Sources (Where I learn)
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 ![W3 Schools](https://img.shields.io/badge/W3%20Schools-04AA6D?style=for-the-badge&logo=w3schools&logoColor=white) 
 
+# Contact
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:xristoslazaris21@protonmail.com) 
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=NebulaDev389&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=NebulaDev389&icon=0&color=3)](https://visitcount.itsvg.in)
