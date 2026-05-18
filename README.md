@@ -30,8 +30,3 @@ I am an intermediate programmer whose interest is cybersecurity and android deve
 # Contact
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:xristoslazaris21@protonmail.com) 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NebulaDev389&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=NebulaDev389&icon=0&color=3)](https://visitcount.itsvg.in)
