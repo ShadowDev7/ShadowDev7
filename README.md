@@ -1,6 +1,6 @@
 # 👋 Hello
 
-I am an intermediate programmer whose interest is cybersecurity and android development (soon...) (And that's about it)
+I am an intermediate programmer (in knowledge) whose interest is cybersecurity and android development (soon...) (And that's about it)
 
 # Stack I have (As of now)
 
