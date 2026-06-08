@@ -1,6 +1,6 @@
 # 👋 Hello
 
-I am an programmer whose interest is cybersecurity and software development (And that's about it)
+I am an programmer whose interest is cybersecurity, godot and software development (And that's about it)
 
 # Stack I have (As of now)
 
