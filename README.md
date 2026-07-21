@@ -8,7 +8,7 @@ I am an programmer whose interest is cybersecurity, older hardware and software 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-Note: As for other languages, I mostly have basic knowledge on them, like I can write basic scripts. Maybe more in the future...
+Currently I am learning CS50x (So that I could learn C even better)
 # The Tools I use
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
