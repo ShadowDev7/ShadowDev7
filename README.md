@@ -1,6 +1,6 @@
 # 👋 Hello
 
-I am an programmer whose interest is cybersecurity, older hardware and software development (And that's about it)
+I am an programmer whose interest is cybersecurity (red team), older hardware (And that's about it)
 
 # Stack I have (As of now)
 
@@ -9,6 +9,9 @@ I am an programmer whose interest is cybersecurity, older hardware and software 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 Currently I am learning CS50x (So that I can learn C even better and such)
+
+# Projects
+Well for now you can check out [OpenPunett](https://github.com/ShadowDev7/OpenPunnett), this is a random project I made to check biology genotype problems in school but yeah. Have a Look
 
 # Contact
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:xristoslazaris21@protonmail.com) 
