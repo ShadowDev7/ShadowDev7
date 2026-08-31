@@ -1,6 +1,6 @@
 # 👋 Hello
 
-I am an programmer whose interest is cybersecurity (red team), older hardware (And that's about it)
+I am an programmer whose interest is cybersecurity (red team), software development and Homebrew (And that's about it)
 
 # Stack I have (As of now)
 
