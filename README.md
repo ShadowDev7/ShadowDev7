@@ -1,4 +1,4 @@
-# 👋 Hello 
+# 👋 Greetings
 
 data = {
   * **Interests:** Cybersecurity (Offensive Security), Homebrew, Game Modding and Software/Web Development
