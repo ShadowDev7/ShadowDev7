@@ -2,6 +2,7 @@
 
 data = {
   * **Interests:** Cybersecurity (Offensive Security), Homebrew, Game Modding and Software/Web Development
+  * **Type:** Self-Taught High Schooler 
   * **Country:** Greece
   * **Languages:** Greek, English
   * **Operating System:** Linux 
