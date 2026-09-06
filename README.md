@@ -7,6 +7,7 @@ data = {
   * **Operating System:** Linux 
   * **Currently Doing:** CS50x
   * **Certifications:** None
+
 }
 
 # Stack 
