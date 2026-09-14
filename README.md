@@ -5,7 +5,7 @@ data = {
   * **Type:** Self-Taught High Schooler 
   * **Country:** Greece
   * **Languages:** Greek, English
-  * **Operating System:** Linux (Kubuntu 26.04)
+  * **Operating System:** Linux (Ultramarine KDE)
   * **Currently Doing:** CS50x
   * **Certifications:** None
   * **Language Certifications:** Nocn ESOL B2. Currently studying for Nocn ESOL C2 and Michigan State University CELP C2 
