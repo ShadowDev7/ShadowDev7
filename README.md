@@ -9,6 +9,7 @@ data = {
   * **Currently Doing:** CS50x
   * **Certifications:** None
   * **Language Certifications:** Nocn ESOL B2. Currently studying for Nocn ESOL C2 and Michigan State University CELP C2 
+
 }
 
 # Stack 
