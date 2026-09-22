@@ -12,6 +12,8 @@ data = {
 
 }
 
+Note: *MOST* likely if you are here to find my projects, check NexusResearch instead
+
 # Stack 
 
 [![My Skills](https://skillicons.dev/icons?i=c,python,linux,vscode,neovim)](https://skillicons.dev)
