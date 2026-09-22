@@ -9,9 +9,11 @@ data = {
   * **Currently Doing:** CS50x
   * **Certifications:** None
   * **Language Certifications:** Nocn ESOL B2. Currently studying for Nocn ESOL C2 and Michigan State University CELP C2 
-
 }
 
 # Stack 
 
 [![My Skills](https://skillicons.dev/icons?i=c,python,linux,vscode,neovim)](https://skillicons.dev)
+
+-------------------------------------------------------
+Founder of [Nexus Research](https://github.com/NexusResearch)
